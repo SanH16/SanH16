@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying on  UMDP
+- 🔭 I’m currently studying at UMDP
   
 - 🌱 I’m currently learning Git, JavaScript, ReactJS
   
