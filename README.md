@@ -13,7 +13,7 @@
 <div size='20px'> Hi! My name is San. Thank You for taking the time to view my GitHub Profile :rocket: 
 </div>
 <br>
-<div align="center"><img width="35%" src = "https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" /></div>
+<div align="center"><img width=350 src = "https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" /></div>
 
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
