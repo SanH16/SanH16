@@ -50,7 +50,7 @@
 <br>
   <br>
   
-[![SanTech GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SanH16&theme=tokyonight)](https://git.io/praveenscience)
+[![SanTech GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SanH16&theme=tokyonight)]
 
 | ![SanTech github stats](https://github-readme-stats.vercel.app/api?username=SanH16&show_icons=true&theme=tokyonight) | ![SanTech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanH16&theme=tokyonight) |
 | --- | --- |
