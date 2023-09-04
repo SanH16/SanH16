@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-
+[![wakatime](https://wakatime.com/badge/user/3fcbeca6-bdee-47d7-9e6b-404ceb0fdfb0.svg)](https://wakatime.com/@3fcbeca6-bdee-47d7-9e6b-404ceb0fdfb0)
 ![Profile views](https://komarev.com/ghpvc/?username=SanH16)
 [![Github](https://img.shields.io/github/followers/SanH16?label=Follow&style=social)](https://github.com/SanH16)
 
