@@ -10,7 +10,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=SanH16)
 [![Github](https://img.shields.io/github/followers/SanH16?label=Follow&style=social)](https://github.com/SanH16)
 
-<div size='20px'> Hi! My name is Adhitya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is San. Thank You for taking the time to view my GitHub Profile :rocket: 
 </div>
 <br>
 <div align="center"><img width="35%" src = "https://media.giphy.com/media/OZbGrdp7FiDiE/giphy.gif" /></div>
