@@ -70,9 +70,9 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
-
-<br>
-
+<div align="right">
+    <img width="10%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+</div>
 
 -----
 Credits: [Adhitya Hasan](https://github.com/SanH16)
