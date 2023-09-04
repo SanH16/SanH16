@@ -71,7 +71,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
 <div align="right">
-    <img width="10%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
+    <img width="20%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </div>
 
 -----
