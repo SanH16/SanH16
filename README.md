@@ -50,7 +50,8 @@
 <br>
   <br>
   
-[![SanTech GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SanH16&theme=tokyonight)]
+## Coding Activity
+<a href="https://github.com/erizonade"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SanH16&theme=vue-dark&layout=compact&custom_title=" width="50%" /></a>
 
 | ![SanTech github stats](https://github-readme-stats.vercel.app/api?username=SanH16&show_icons=true&theme=tokyonight) | ![SanTech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanH16&theme=tokyonight) |
 | --- | --- |
