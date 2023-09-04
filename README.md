@@ -6,7 +6,7 @@
 <p align='center'>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/3fcbeca6-bdee-47d7-9e6b-404ceb0fdfb0.svg)](https://wakatime.com/@3fcbeca6-bdee-47d7-9e6b-404ceb0fdfb0)
+
 ![Profile views](https://komarev.com/ghpvc/?username=SanH16)
 [![Github](https://img.shields.io/github/followers/SanH16?label=Follow&style=social)](https://github.com/SanH16)
 
@@ -51,7 +51,6 @@
   <br>
   
 ## Coding Activity
-<a href="https://github.com/erizonade"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=SanH16&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
 
 | ![SanTech github stats](https://github-readme-stats.vercel.app/api?username=SanH16&show_icons=true&theme=tokyonight) | ![SanTech GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanH16&theme=tokyonight) |
 | --- | --- |
