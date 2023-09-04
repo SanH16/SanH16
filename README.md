@@ -28,18 +28,30 @@
 - ⚡ Fun fact: Jan karl.
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=tailwind&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=laravel&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=figma&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/figma.svg'> </a>
 
+| HTML5 | CSS3 | BOOTSTRAP | TailwindCSS | JavaScript | Java | Phyton | Laravel | Typescript |
+| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/typescript.svg"> |
+
+
+<h2>Coding Tools</h2>
+
+| GIT  | VS Code | TERMINAL | 
+| ------------- | ------------- |------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+
+<h2>Design Tools</h2>
+
+| FIGMA | MARVEL |
+| ------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> |   <img height="30px" src="https://cdn.svgporn.com/logos/marvel.svg"> |
+
+<h2>What I am currently learning</h2>
+
+| GIT | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 | 𝗪𝗘𝗕𝗣𝗔𝗖𝗞 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/git.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/webpack.svg"> | 
+<br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/aditya-hasan'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -48,7 +60,6 @@
   
 <br>
 <br>
-  <br>
   
 ## Coding Activity
 
