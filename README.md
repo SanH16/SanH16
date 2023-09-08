@@ -30,9 +30,9 @@
 
 <h2> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
-| HTML5 | CSS3 | BOOTSTRAP | TailwindCSS | JavaScript | Java | Phyton | Laravel | Typescript |
-| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/typescript.svg"> |
+| HTML5 | CSS3 | BOOTSTRAP | TailwindCSS | JavaScript | Java | Phyton | Laravel | Angular | Typescript |
+| ------------- | ------------- |------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/laravel.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/angular.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/typescript.svg"> |
 
 
 <h2>Coding Tools</h2>
