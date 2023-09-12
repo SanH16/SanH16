@@ -70,6 +70,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/SanH16?theme=dark&font=Rubik&ext=activity)
+
 <div align="right">
     <img width="20%" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif"/>
 </div>
