@@ -18,13 +18,13 @@
 <h2> About Me </h2>
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently studying at University
+- 🔭 I’m currently studying at University.
   
-- 🌱 I’m currently learning Git, JavaScript, ReactJS
+- 🌱 I’m currently learning Git, JavaScript, Typescript, ReactJS.
   
-- 👯 I’m looking to collaborate on Project
+- 👯 I’m looking to collaborate on Project.
   
-- 💬 I have a huge interest in Frontend Developer
+- 💬 I have a huge interest in Frontend Developer.
   
 - ⚡ Fun fact: Jan karl.
 
