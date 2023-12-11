@@ -42,7 +42,7 @@
 
 <h2>✨ UI Library</h2>
 
-| Ant Design | Material UI | Chakra UI | Shadcn UI
+| $\color{#CCFF66}{\textsf{Ant Design}}$ | $\color{#CCFF66}{\textsf{Material UI}}$ | $\color{#CCFF66}{\textsf{Chakra UI}}$ | $\color{#CCFF66}{\textsf{Shadcn UI}}$
 | ------------- | ------------- | ------------- | ------------- | 
 | <img height="30px" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"> | <img height="30px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"> 
 
