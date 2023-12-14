@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently studying at University.
   
-- 🌱 I’m currently learning Git, JavaScript, Typescript, ReactJS.
+- 🌱 I’m currently learning Git, JavaScript, Typescript, ReactJS, MEAN Stack.
   
 - 👯 I’m looking to collaborate on Project.
   
