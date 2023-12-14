@@ -44,13 +44,13 @@
 
 | $\color{#CCFF66}{\textsf{Ant Design}}$ | $\color{#CCFF66}{\textsf{Material UI}}$ | $\color{#CCFF66}{\textsf{Chakra UI}}$ | $\color{#CCFF66}{\textsf{Shadcn UI}}$
 | ------------- | ------------- | ------------- | ------------- | 
-| <img height="30px" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"> | <img height="30px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"> 
+| <p align="center"><img height="30px" src="https://user-images.githubusercontent.com/25181517/190887795-99cb0921-e57f-430b-a111-e165deedaa36.png"></p> | <p align="center"><img height="30px" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png"><p> | <p align="center"><img height="30px" src="https://user-images.githubusercontent.com/25181517/190887639-d0ba4ec9-ddbe-45dd-bea1-4db83846503e.png"></p> | <p align="center"><img height="30px" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4"></p> 
 
-<h2>What I am currently learning</h2>
+<h2> <img height="45px" src="https://github.com/SanH16/SanH16/assets/100403644/030c3cee-abfd-4205-8e41-611ed2536f2d"> What I am currently learning</h2>
 
 | GIT | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 | 𝗪𝗘𝗕𝗣𝗔𝗖𝗞 | REDUX | 
 | ------------- | ------------- |------------- | ------------- | ------------- |
-| <img height="30px" src="https://cdn.svgporn.com/logos/git.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/webpack.svg"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png">
+| <p align="center"><img height="45px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></p> | <p align="center"><img height="45px" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"> | <p align="center"><img height="45px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></p> |  <p align="center"><img height="45px" src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"></p> | <p align="center"><img height="45px" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png"></p>
 <br>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
