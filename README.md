@@ -2,10 +2,7 @@
     <img width="200" src="https://github.com/SanH16/pelatihan/blob/main/SanTech.jpg">
 </p>
 
-<h1> Hello SanTech < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
+<h1> Hello < World /> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 ![Profile views](https://komarev.com/ghpvc/?username=SanH16)
 [![Github](https://img.shields.io/github/followers/SanH16?label=Follow&style=social)](https://github.com/SanH16)
