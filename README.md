@@ -25,6 +25,8 @@
   
 - ⚡ Fun fact: Jan karl.
 
+<br> 
+
 <h2>🌐 Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 | $\color{#5DFDCB}{\textsf{HTML5}}$ | $\color{#5DFDCB}{\textsf{CSS3}}$ | $\color{#5DFDCB}{\textsf{BOOTSTRAP}}$ | $\color{#5DFDCB}{\textsf{TailwindCSS}}$ | $\color{#5DFDCB}{\textsf{JavaScript}}$ | $\color{#5DFDCB}{\textsf{Laravel}}$ | $\color{#5DFDCB}{\textsf{Angular}}$ | $\color{#5DFDCB}{\textsf{ReactJS}}$ | $\color{#5DFDCB}{\textsf{Typescript}}$ | $\color{#5DFDCB}{\textsf{Firebase}}$ | $\color{#5DFDCB}{\textsf{MongoDB}}$ | $\color{#5DFDCB}{\textsf{ExpressJS}}$ | $\color{#5DFDCB}{\textsf{Java}}$ | $\color{#5DFDCB}{\textsf{Phyton}}$ | 
