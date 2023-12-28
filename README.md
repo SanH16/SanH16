@@ -40,7 +40,7 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | <img height="30px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"> | <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/marvel.svg"> 
 
-<h2>✨ UI Library</h2>
+<h2>✨ UI Libraries</h2>
 
 | $\color{#CCFF66}{\textsf{Ant Design}}$ | $\color{#CCFF66}{\textsf{Material UI}}$ | $\color{#CCFF66}{\textsf{Chakra UI}}$ | $\color{#CCFF66}{\textsf{Shadcn UI}}$
 | ------------- | ------------- | ------------- | ------------- | 
